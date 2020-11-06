@@ -6,6 +6,7 @@ from nltk.corpus import stopwords
 # Parse command line arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("book", help="file_path to book to be summarized", type=str)
+parser.add_argument("n_sent", nargs='?', help="Number of top sentences to use to build summary", default=100, type=int)
 
 args = parser.parse_args()
 
@@ -83,5 +84,5 @@ def buildBookSummary(text, limit):
 if __name__ == "__main__":
     # Get a sample book from Gutenberg
     # !wget "http://www.gutenberg.org/files/11/11-0.txt"
-    print(buildBookSummary(processBook(args.book), 15))
+    print(buildBookSummary(processBook(args.book), args.n_sent))
 
