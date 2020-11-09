@@ -10,11 +10,11 @@ parser.add_argument("n_sent", nargs='?', help="Number of top sentences to use to
 
 args = parser.parse_args()
 
-# Download and set stopwords
+# Download and set stopwords    # TO-DO - Check for existence prior to loading
 nltk.download('stopwords')
 stopWords = set(stopwords.words('english'))
 
-# Download English Language Model
+# Download English Language Model       # TO-DO - Check for existence prior to loading
 stanza.download('en')
 
 # Initiate an English LM stanza pipeline
@@ -86,3 +86,15 @@ if __name__ == "__main__":
     # !wget "http://www.gutenberg.org/files/11/11-0.txt"
     print(buildBookSummary(processBook(args.book), args.n_sent))
 
+
+"""
+# TO DO
+
+1. Check for downloads before loading
+2. Add print statements to discuss progress
+3. Work on Evaluation methods
+4. Work on extending to chapters.
+
+
+
+"""
