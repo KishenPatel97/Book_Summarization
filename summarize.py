@@ -84,7 +84,9 @@ def buildBookSummary(text, limit):
 if __name__ == "__main__":
     # Get a sample book from Gutenberg
     # !wget "http://www.gutenberg.org/files/11/11-0.txt"
-    print(buildBookSummary(processBook(args.book), args.n_sent))
+    with open("output.txt", 'w') as out_file:
+        out_file.write(buildBookSummary(processBook(args.book), args.n_sent))
+    # print(buildBookSummary(processBook(args.book), args.n_sent))
 
 
 """
