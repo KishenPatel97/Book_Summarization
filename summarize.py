@@ -27,11 +27,12 @@ def processBook(fname):
     PARAMS: fname (str) - filepath to book to be processed into a string
     RETURNS: (str) - the string object containing the text
     """
+    print("Processing the .txt into a string object...", end="")
     book = open(fname)      # open book file
     book_lines = []         # initialize storage
     for line in book.readlines():       # iterate through each line
         book_lines.append(line.strip())     # process each line
-
+    print("Done!")
     return " ".join(book_lines)         # return processed lines
 
 def buildBookSummary(text, limit):
