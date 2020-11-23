@@ -8,7 +8,7 @@ PART ONE--The Old Buccaneer
 
 
 
-1
+ CHAPTER 1
 
 The Old Sea-dog at the Admiral Benbow
 
@@ -212,7 +212,7 @@ the captain held his peace that evening, and for many evenings to come.
 
 
 
-2
+ CHAPTER 2
 
 Black Dog Appears and Disappears
 
@@ -456,7 +456,7 @@ would settle him.”
 
 
 
-3
+ CHAPTER 3
 
 The Black Spot
 
@@ -672,7 +672,7 @@ the sorrow of the first was still fresh in my heart.
 
 
 
-4
+ CHAPTER 4
 
 The Sea-chest
 
@@ -879,7 +879,7 @@ us within earshot of the inn.
 
 
 
-5
+ CHAPTER 5
 
 The Last of the Blind Man
 
@@ -1088,7 +1088,7 @@ to Dr. Livesey’s house.
 
 
 
-6
+ CHAPTER 6
 
 The Captain’s Papers
 
@@ -1330,7 +1330,7 @@ PART TWO--The Sea-cook
 
 
 
-7
+ CHAPTER 7
 
 I Go to Bristol
 
@@ -1552,7 +1552,7 @@ Bravo! The ship’s company complete!”
 
 
 
-8
+ CHAPTER 8
 
 At the Sign of the Spy-glass
 
@@ -1759,7 +1759,7 @@ the ship.”
 
 
 
-9
+ CHAPTER 9
 
 Powder and Arms
 
@@ -1981,7 +1981,7 @@ captain deeply.
 
 
 
-10
+ CHAPTER 10
 
 The Voyage
 
@@ -2183,7 +2183,7 @@ upon me alone.
 
 
 
-11
+ CHAPTER 11
 
 What I Heard in the Apple Barrel
 
@@ -2400,7 +2400,7 @@ the voice of the lookout shouted, “Land ho!”
 
 
 
-12
+ CHAPTER 12
 
 Council of War
 
@@ -2615,7 +2615,7 @@ PART THREE--My Shore Adventure
 
 
 
-13
+ CHAPTER 13
 
 How My Shore Adventure Began
 
@@ -2797,7 +2797,7 @@ through, I ran straight before my nose till I could run no longer.
 
 
 
-14
+ CHAPTER 14
 
 The First Blow
 
@@ -2991,7 +2991,7 @@ And here a fresh alarm brought me to a standstill with a thumping heart.
 
 
 
-15
+ CHAPTER 15
 
 The Man of the Island
 
@@ -3255,7 +3255,7 @@ PART FOUR--The Stockade
 
 
 
-16
+ CHAPTER 16
 
 Narrative Continued by the Doctor: How the Ship Was Abandoned
 
@@ -3438,7 +3438,7 @@ We were clear out of the ship, but not yet ashore in our stockade.
 
 
 
-17
+ CHAPTER 17
 
 Narrative Continued by the Doctor: The Jolly-boat’s Last Trip
 
@@ -3612,7 +3612,7 @@ provisions.
 
 
 
-18
+ CHAPTER 18
 
 Narrative Continued by the Doctor: End of the First Day’s Fighting
 
@@ -3794,7 +3794,7 @@ climbing over the stockade.
 
 
 
-19
+ CHAPTER 19
 
 Narrative Resumed by Jim Hawkins: The Garrison in the Stockade
 
@@ -4012,7 +4012,7 @@ wall.
 
 
 
-20
+ CHAPTER 20
 
 Silver’s Embassy
 
@@ -4229,7 +4229,7 @@ trees.
 
 
 
-21
+ CHAPTER 21
 
 The Attack
 
@@ -4471,7 +4471,7 @@ PART FIVE--My Sea Adventure
 
 
 
-22
+ CHAPTER 22
 
 How My Sea Adventure Began
 
@@ -4679,7 +4679,7 @@ surface.
 
 
 
-23
+ CHAPTER 23
 
 The Ebb-tide Runs
 
@@ -4847,7 +4847,7 @@ I lay and dreamed of home and the old Admiral Benbow.
 
 
 
-24
+ CHAPTER 24
 
 The Cruise of the Coracle
 
@@ -5045,7 +5045,7 @@ coracle and that I was left without retreat on the HISPANIOLA.
 
 
 
-25
+ CHAPTER 25
 
 I Strike the Jolly Roger
 
@@ -5229,7 +5229,7 @@ watched me at my work.
 
 
 
-26
+ CHAPTER 26
 
 Israel Hands
 
@@ -5511,7 +5511,7 @@ upon the shrouds and plunged head first into the water.
 
 
 
-27
+ CHAPTER 27
 
 “Pieces of Eight”
 
@@ -5734,7 +5734,7 @@ PART SIX--Captain Silver
 
 
 
-28
+ CHAPTER 28
 
 In the Enemy’s Camp
 
@@ -6024,7 +6024,7 @@ like a man who looks forward to the worst.
 
 
 
-29
+ CHAPTER 29
 
 The Black Spot Again
 
@@ -6255,7 +6255,7 @@ that awaited him.
 
 
 
-30
+ CHAPTER 30
 
 On Parole
 
@@ -6515,7 +6515,7 @@ Silver, and set off at a brisk pace into the wood.
 
 
 
-31
+ CHAPTER 31
 
 The Treasure-hunt--Flint’s Pointer
 
@@ -6750,7 +6750,7 @@ the dead buccaneer had fallen on their spirits.
 
 
 
-32
+ CHAPTER 32
 
 The Treasure-hunt--The Voice Among the Trees
 
@@ -6979,7 +6979,7 @@ seven hundred thousand pounds were gone!
 
 
 
-33
+ CHAPTER 33
 
 The Fall of a Chieftain
 
@@ -7200,7 +7200,7 @@ polite, obsequious seaman of the voyage out.
 
 
 
-34
+ CHAPTER 34
 
 And Last
 
@@ -7384,5 +7384,3 @@ wain-ropes would not bring me back again to that accursed island; and
 the worst dreams that ever I have are when I hear the surf booming about
 its coasts or start upright in bed with the sharp voice of Captain Flint
 still ringing in my ears: “Pieces of eight! Pieces of eight!”
-
-
