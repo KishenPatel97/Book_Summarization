@@ -1,9 +1,6 @@
 Book the First--Recalled to Life
 
-
-
-
-I. The Period
+CHAPTER I. The Period
 
 
 It was the best of times,
@@ -109,7 +106,7 @@ roads that lay before them.
 
 
 
-II. The Mail
+CHAPTER II. The Mail
 
 
 It was the Dover road that lay, on a Friday night late in November,
@@ -363,7 +360,7 @@ Jerry!”
 
 
 
-III. The Night Shadows
+CHAPTER III. The Night Shadows
 
 
 A wonderful fact to reflect upon, that every human creature is
@@ -548,7 +545,7 @@ Creator of day! To be buried alive for eighteen years!”
 
 
 
-IV. The Preparation
+ CHAPTER IV. The Preparation
 
 
 When the mail got successfully to Dover, in the course of the forenoon,
@@ -1042,7 +1039,7 @@ consider it.
 
 
 
-V. The Wine-shop
+CHAPTER V. The Wine-shop
 
 
 A large cask of wine had been dropped and broken, in the street. The
@@ -1493,7 +1490,7 @@ busy, making shoes.
 
 
 
-VI. The Shoemaker
+CHAPTER VI. The Shoemaker
 
 
 “Good day!” said Monsieur Defarge, looking down at the white head that
@@ -1975,7 +1972,7 @@ Book the Second--the Golden Thread
 
 
 
-I. Five Years Later
+CHAPTER I. Five Years Later
 
 
 Tellson's Bank by Temple Bar was an old-fashioned place, even in the
@@ -2229,7 +2226,7 @@ rust here!”
 
 
 
-II. A Sight
+CHAPTER II. A Sight
 
 
 “You know the Old Bailey well, no doubt?” said one of the oldest of
@@ -2505,7 +2502,7 @@ axe, and hammer the nails into the scaffold.
 
 
 
-III. A Disappointment
+CHAPTER III. A Disappointment
 
 
 Mr. Attorney-General had to inform the jury, that the prisoner before
@@ -3096,7 +3093,7 @@ search of other carrion.
 
 
 
-IV. Congratulatory
+CHAPTER IV. Congratulatory
 
 
 From the dimly-lighted passages of the court, the last sediment of the
@@ -3386,7 +3383,7 @@ table, and a long winding-sheet in the candle dripping down upon him.
 
 
 
-V. The Jackal
+CHAPTER V. The Jackal
 
 
 Those were drinking days, and most men drank hard. So very great is
@@ -3649,7 +3646,7 @@ on him, and resigning himself to let it eat him away.
 
 
 
-VI. Hundreds of People
+CHAPTER VI. Hundreds of People
 
 
 The quiet lodgings of Doctor Manette were in a quiet street-corner not
@@ -4186,7 +4183,7 @@ bearing down upon them, too.
 
 
 
-VII. Monseigneur in Town
+CHAPTER VII. Monseigneur in Town
 
 
 Monseigneur, one of the great lords in power at the Court, held his
@@ -4526,7 +4523,7 @@ things ran their course.
 
 
 
-VIII. Monseigneur in the Country
+CHAPTER VIII. Monseigneur in the Country
 
 
 A beautiful landscape, with the corn bright in it, but not abundant.
@@ -4773,7 +4770,7 @@ of his chateau was opened to him.
 
 
 
-IX. The Gorgon's Head
+CHAPTER IX. The Gorgon's Head
 
 
 It was a heavy mass of building, that chateau of Monsieur the Marquis,
@@ -5274,7 +5271,7 @@ was a frill of paper, on which was scrawled:
 
 
 
-X. Two Promises
+CHAPTER X. Two Promises
 
 
 More months, to the number of twelve, had come and gone, and Mr. Charles
@@ -5633,7 +5630,7 @@ work, were all as usual.
 
 
 
-XI. A Companion Picture
+CHAPTER XI. A Companion Picture
 
 
 “Sydney,” said Mr. Stryver, on that self-same night, or morning, to his
@@ -5814,7 +5811,7 @@ kind of thing for _you_. Now think of it, Sydney.”
 
 
 
-XII. The Fellow of Delicacy
+CHAPTER XII. The Fellow of Delicacy
 
 
 Mr. Stryver having made up his mind to that magnanimous bestowal of good
@@ -6113,7 +6110,7 @@ was lying back on his sofa, winking at his ceiling.
 
 
 
-XIII. The Fellow of No Delicacy
+CHAPTER XIII. The Fellow of No Delicacy
 
 
 If Sydney Carton ever shone anywhere, he certainly never shone in the
@@ -6320,7 +6317,7 @@ He said, “Farewell!” said a last “God bless you!” and left her.
 
 
 
-XIV. The Honest Tradesman
+CHAPTER XIV. The Honest Tradesman
 
 
 To the eyes of Mr. Jeremiah Cruncher, sitting on his stool in
@@ -6756,7 +6753,7 @@ yet be a blessing to you, and a recompense to you for his mother!”
 
 
 
-XV. Knitting
+CHAPTER XV. Knitting
 
 
 There had been earlier drinking than usual in the wine-shop of Monsieur
@@ -7233,7 +7230,7 @@ a wave of her hand towards the place where they had last been apparent;
 
 
 
-XVI. Still Knitting
+CHAPTER XVI. Still Knitting
 
 
 Madame Defarge and monsieur her husband returned amicably to the
@@ -7733,7 +7730,7 @@ counting dropping heads.
 
 
 
-XVII. One Night
+CHAPTER XVII. One Night
 
 
 Never did the sun go down with a brighter glory on the quiet corner in
@@ -7943,7 +7940,7 @@ in praying for him.
 
 
 
-XVIII. Nine Days
+CHAPTER XVIII. Nine Days
 
 
 The marriage-day was shining brightly, and they were ready outside the
@@ -8218,7 +8215,7 @@ the dusk of the ninth evening.
 
 
 
-XIX. An Opinion
+CHAPTER XIX. An Opinion
 
 
 Worn out by anxious watching, Mr. Lorry fell asleep at his post. On the
@@ -8548,7 +8545,7 @@ crime.
 
 
 
-XX. A Plea
+CHAPTER XX. A Plea
 
 
 When the newly-married pair came home, the first person who appeared, to
@@ -8719,7 +8716,7 @@ have parted from his lips for the first time--
 
 
 
-XXI. Echoing Footsteps
+CHAPTER XXI. Echoing Footsteps
 
 
 A wonderful corner for echoes, it has been remarked, that corner where
@@ -9189,7 +9186,7 @@ stained red.
 
 
 
-XXII. The Sea Still Rises
+ CHAPTERXXII. The Sea Still Rises
 
 
 Haggard Saint Antoine had had only one exultant week, in which to soften
@@ -9406,7 +9403,7 @@ Antoine's bosom.
 
 
 
-XXIII. Fire Rises
+ CHAPTERXXIII. Fire Rises
 
 
 There was a change on the village where the fountain fell, and where
@@ -9696,7 +9693,7 @@ successfully.
 
 
 
-XXIV. Drawn to the Loadstone Rock
+ CHAPTERXXIV. Drawn to the Loadstone Rock
 
 
 In such risings of fire and risings of sea--the firm earth shaken by
@@ -10192,7 +10189,7 @@ Book the Third--the Track of a Storm
 
 
 
-I. In Secret
+ CHAPTERI. In Secret
 
 
 The traveller fared slowly on his way, who fared towards Paris from
@@ -10701,7 +10698,7 @@ knew, in the swell that rose above them.
 
 
 
-II. The Grindstone
+ CHAPTERII. The Grindstone
 
 
 Tellson's Bank, established in the Saint Germain Quarter of Paris, was
@@ -10961,7 +10958,7 @@ never given, and would never take away.
 
 
 
-III. The Shadow
+ CHAPTERIII. The Shadow
 
 
 One of the first considerations which arose in the business mind of Mr.
@@ -11184,7 +11181,7 @@ for all that, and in his secret mind it troubled him greatly.
 
 
 
-IV. Calm in Storm
+ CHAPTERIV. Calm in Storm
 
 
 Doctor Manette did not return until the morning of the fourth day of his
@@ -11378,7 +11375,7 @@ a Spirit moving among mortals.
 
 
 
-V. The Wood-Sawyer
+ CHAPTERV. The Wood-Sawyer
 
 
 One year and three months. During all that time Lucie was never
@@ -11637,7 +11634,7 @@ he said: “Removed to the Conciergerie, and summoned for to-morrow?”
 
 
 
-VI. Triumph
+ CHAPTERVI. Triumph
 
 
 The dread tribunal of five Judges, Public Prosecutor, and determined
@@ -11916,7 +11913,7 @@ tremble so. I have saved him.”
 
 
 
-VII. A Knock at the Door
+ CHAPTERVII. A Knock at the Door
 
 
 “I have saved him.” It was not another of the dreams in which he had
@@ -12150,7 +12147,7 @@ answered to-morrow. Now, I am dumb!”
 
 
 
-VIII. A Hand at Cards
+ CHAPTERVIII. A Hand at Cards
 
 
 Happily unconscious of the new calamity at home, Miss Pross threaded her
@@ -12711,7 +12708,7 @@ into the dark room here, and let us have one final word alone.”
 
 
 
-IX. The Game Made
+ CHAPTERIX. The Game Made
 
 
 While Sydney Carton and the Sheep of the prisons were in the adjoining
@@ -13268,7 +13265,7 @@ follows.
 
 
 
-X. The Substance of the Shadow
+ CHAPTERX. The Substance of the Shadow
 
 
 “I, Alexandre Manette, unfortunate physician, native of Beauvais, and
@@ -13897,7 +13894,7 @@ Conciergerie, and Death within four-and-twenty hours!
 
 
 
-XI. Dusk
+ CHAPTERXI. Dusk
 
 
 The wretched wife of the innocent man thus doomed to die, fell under
@@ -14076,7 +14073,7 @@ And walked with a settled step, down-stairs.
 
 
 
-XII. Darkness
+ CHAPTERXII. Darkness
 
 
 Sydney Carton paused in the street, not quite decided where to go. “At
@@ -14458,7 +14455,7 @@ Farewell.
 
 
 
-XIII. Fifty-two
+ CHAPTERXIII. Fifty-two
 
 
 In the black prison of the Conciergerie, the doomed of the day awaited
@@ -15015,7 +15012,7 @@ us; but, so far, we are pursued by nothing else.
 
 
 
-XIV. The Knitting Done
+ CHAPTERXIV. The Knitting Done
 
 
 In that same juncture of time when the Fifty-Two awaited their fate
@@ -15546,7 +15543,7 @@ And indeed she never did.
 
 
 
-XV. The Footsteps Die Out For Ever
+ CHAPTERXV. The Footsteps Die Out For Ever
 
 
 Along the Paris streets, the death-carts rumble, hollow and harsh. Six
@@ -15793,13 +15790,3 @@ tell the child my story, with a tender and a faltering voice.
 
 “It is a far, far better thing that I do, than I have ever done; it is a
 far, far better rest that I go to than I have ever known.”
-
-
-
-
-
-
-
-
-
-

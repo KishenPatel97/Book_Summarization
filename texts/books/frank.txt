@@ -1,3 +1,4 @@
+CHAPTER 0
 Letter 1
 
 _To Mrs. Saville, England._
@@ -579,7 +580,7 @@ embraced the gallant vessel on its course and wrecked it—thus!
 
 
 
-Chapter 1
+CHAPTER 1
 
 
 I am by birth a Genevese, and my family is one of the most
@@ -745,7 +746,7 @@ sister, since till death she was to be mine only.
 
 
 
-Chapter 2
+CHAPTER 2
 
 
 We were brought up together; there was not quite a year difference in
@@ -956,7 +957,7 @@ terrible destruction.
 
 
 
-Chapter 3
+CHAPTER 3
 
 
 When I had attained the age of seventeen my parents resolved that I
@@ -1211,7 +1212,7 @@ Thus ended a day memorable to me; it decided my future destiny.
 
 
 
-Chapter 4
+CHAPTER 4
 
 
 From this day natural philosophy, and particularly chemistry, in the
@@ -1447,7 +1448,7 @@ both of these when my creation should be complete.
 
 
 
-Chapter 5
+CHAPTER 5
 
 
 It was on a dreary night of November that I beheld the accomplishment
@@ -1685,7 +1686,7 @@ your cousin, I believe.”
 
 
 
-Chapter 6
+CHAPTER 6
 
 
 Clerval then put the following letter into my hands.  It was from my
@@ -1951,7 +1952,7 @@ high, and I bounded along with feelings of unbridled joy and hilarity.
 
 
 
-Chapter 7
+CHAPTER 7
 
 
 On my return, I found the following letter from my father:—
@@ -2320,7 +2321,7 @@ partiality.”
 
 
 
-Chapter 8
+CHAPTER 8
 
 
 We passed a few sad hours until eleven o’clock, when the trial was to
@@ -2625,7 +2626,7 @@ Justine, the first hapless victims to my unhallowed arts.
 
 
 
-Chapter 9
+CHAPTER 9
 
 
 Nothing is more painful to the human mind than, after the feelings have
@@ -2834,7 +2835,7 @@ the giver of oblivion.
 
 
 
-Chapter 10
+CHAPTER 10
 
 
 I spent the following day roaming through the valley.  I stood beside
@@ -3058,7 +3059,7 @@ his tale.
 
 
 
-Chapter 11
+CHAPTER 11
 
 
 “It is with considerable difficulty that I remember the original era of
@@ -3322,7 +3323,7 @@ extinguished their lights and retired, as I conjectured, to rest.”
 
 
 
-Chapter 12
+CHAPTER 12
 
 
 “I lay on my straw, but I could not sleep.  I thought of the
@@ -3529,7 +3530,7 @@ and the future gilded by bright rays of hope and anticipations of joy.”
 
 
 
-Chapter 13
+CHAPTER 13
 
 
 “I now hasten to the more moving part of my story.  I shall relate
@@ -3733,7 +3734,7 @@ an innocent, half-painful self-deceit, to call them).”
 
 
 
-Chapter 14
+CHAPTER 14
 
 
 “Some time elapsed before I learned the history of my friends.  It was
@@ -3917,7 +3918,7 @@ the cottage of her lover.”
 
 
 
-Chapter 15
+CHAPTER 15
 
 
 “Such was the history of my beloved cottagers.  It impressed me deeply.
@@ -4226,7 +4227,7 @@ tumult escaped unperceived to my hovel.”
 
 
 
-Chapter 16
+CHAPTER 16
 
 
 “Cursed, cursed creator!  Why did I live?  Why, in that instant, did I
@@ -4540,7 +4541,7 @@ and have the same defects.  This being you must create.”
 
 
 
-Chapter 17
+CHAPTER 17
 
 
 The being finished speaking and fixed his looks upon me in the
@@ -4723,7 +4724,7 @@ and that thought only had to me the reality of life.
 
 
 
-Chapter 18
+CHAPTER 18
 
 
 Day after day, week after week, passed away on my return to Geneva; and
@@ -5006,7 +5007,7 @@ above all, and the Tower famed in English history.
 
 
 
-Chapter 19
+CHAPTER 19
 
 
 London was our present point of rest; we determined to remain several
@@ -5257,7 +5258,7 @@ in my bosom.
 
 
 
-Chapter 20
+CHAPTER 20
 
 
 I sat one evening in my laboratory; the sun had set, and the moon was just
@@ -5585,7 +5586,7 @@ recollection.
 
 
 
-Chapter 21
+CHAPTER 21
 
 
 I was soon introduced into the presence of the magistrate, an old
@@ -5951,7 +5952,7 @@ susceptible.
 
 
 
-Chapter 22
+CHAPTER 22
 
 
 The voyage came to an end.  We landed, and proceeded to Paris.  I soon
@@ -6292,7 +6293,7 @@ me and cling to me for ever.
 
 
 
-Chapter 23
+CHAPTER 23
 
 
 It was eight o’clock when we landed; we walked for a short time on the
@@ -6540,7 +6541,7 @@ some other mode of action.
 
 
 
-Chapter 24
+CHAPTER 24
 
 
 My present situation was one in which all voluntary thought was
@@ -7317,4 +7318,3 @@ Farewell.”
 He sprang from the cabin-window as he said this, upon the ice raft
 which lay close to the vessel.  He was soon borne away by the waves and
 lost in darkness and distance.
-
