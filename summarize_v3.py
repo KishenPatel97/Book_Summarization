@@ -41,7 +41,7 @@ def splitBook(filename,book,limit=3):
     saveFile(filename, summary, limit)
 
 def saveFile(filename,summary, limit):
-    f = open('_'.join([filename.split('.')[0],'summary',str(limit),'sent'])+'.txt', 'w', newline='\n')
+    f = open('_'.join([('summaries/'+filename.split('/')[2]).split('.')[0],'summary',str(limit),'sent'])+'.txt', 'w', newline='\n')
     for s in summary:
       f.write(s+'\n')
     f.close()
